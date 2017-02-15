@@ -72,3 +72,8 @@ And then execute:
 Or install it yourself as:
 
     $ gem install config
+
+## Release Notes
+
+### 1.0.0
+    * Initial version
